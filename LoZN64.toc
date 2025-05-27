@@ -1,0 +1,10 @@
+## Interface: 110105
+
+## Title: Zelda Level Up!
+## Version: 11.1.5
+## Notes: GL with DF, feel the nostalgia!
+## Author: Frostaphim-Xavius
+
+## IconTexture: Interface\ICONS\newplayerhelp_newcomer
+
+main.lua
