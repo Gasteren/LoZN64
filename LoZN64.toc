@@ -1,7 +1,7 @@
 ## Interface: 110107, 110200
 
 ## Title: Zelda Level Up!
-## Version: 11.1.5
+## Version: 11.1.7
 ## Notes: GL with DF, feel the nostalgia!
 ## Author: Frostaphim-Xavius
 
