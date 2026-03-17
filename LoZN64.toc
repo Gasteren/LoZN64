@@ -4,7 +4,6 @@
 ## Version: 12.0.1
 ## Notes: Enjoy the amazing Zelda Audio as you level up!
 ## Author: Frost-Lightbringer
-## Group: Tools by: Frostaphim | Frost-Lightbringer
 
 ## IconTexture: Interface\ICONS\newplayerhelp_newcomer
 
