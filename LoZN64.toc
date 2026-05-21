@@ -4,6 +4,7 @@
 ## Version: 12.0.5
 ## Notes: Enjoy the amazing Zelda Audio as you level up!
 ## Author: Frost-Lightbringer
+## X-Curse-Project-ID: 698360
 
 ## IconTexture: Interface\ICONS\newplayerhelp_newcomer
 
