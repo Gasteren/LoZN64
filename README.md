@@ -31,5 +31,3 @@ The addon is enabled by default — just install and enjoy the new level-up soun
 Thanks to [Marco Doest](https://twitter.com/DoestMarco) for the audio adjustments.
 
 ---
-
-Enjoy your nostalgic level-up experience!
