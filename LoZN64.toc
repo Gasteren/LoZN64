@@ -1,7 +1,7 @@
-## Interface: 120007
+## Interface: 120007, 120100
 
 ## Title: Zelda Level Up!
-## Version: 12.0.7
+## Version: 12.1.0
 ## Notes: Enjoy the amazing Zelda Audio as you level up!
 ## Author: Frost-Lightbringer
 ## X-Curse-Project-ID: 698360
