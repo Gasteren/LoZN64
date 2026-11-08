@@ -3,7 +3,7 @@
 ## Title: Zelda Level Up!
 ## Version: 1.0.0
 ## Notes: Enjoy the amazing Zelda Audio as you level up!
-## Author: Frost-Lightbringer
+## Author: Frost Forever | EU Normal Ruleset
 ## X-Curse-Project-ID: 698360
 
 ## IconTexture: Interface\ICONS\newplayerhelp_newcomer
